@@ -1,0 +1,24 @@
+{
+  "name": "Cab Booking Web App",
+  "version": "1.0.0",
+  "description": "Backend of cab booking app in express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nischal Dutt",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.13",
+    "mysql": "^2.16.0",
+    "node-datetime": "^2.1.2",
+    "path": "^0.12.7",
+    "swagger-ui-express": "^4.0.2"
+  }
+}

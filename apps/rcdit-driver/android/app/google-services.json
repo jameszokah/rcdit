@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "825914981253",
+    "project_id": "rcdit-1a25d",
+    "storage_bucket": "rcdit-1a25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825914981253:android:5888013d5a58a36dfa22ec",
+        "android_client_info": {
+          "package_name": "com.rcdit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OlHzZfV9SGwaJtq4pmvx44In7caSu5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825914981253-5eooken766vs16afg83t7ueo5446of13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rcdit.rider.rcditRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825914981253:android:0c885bce00b02417fa22ec",
+        "android_client_info": {
+          "package_name": "com.rcdit.driver.rcdit_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OlHzZfV9SGwaJtq4pmvx44In7caSu5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825914981253-5eooken766vs16afg83t7ueo5446of13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rcdit.rider.rcditRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825914981253:android:4bbcf2f2efb9abc2fa22ec",
+        "android_client_info": {
+          "package_name": "com.rcdit.rcdit_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OlHzZfV9SGwaJtq4pmvx44In7caSu5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825914981253-5eooken766vs16afg83t7ueo5446of13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rcdit.rider.rcditRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825914981253:android:57cbfd6644caea8efa22ec",
+        "android_client_info": {
+          "package_name": "com.rcdit.rider.rcdit_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OlHzZfV9SGwaJtq4pmvx44In7caSu5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825914981253-fnao8upsfov6kb1q00dr9ud2o9jrgd2n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825914981253-5eooken766vs16afg83t7ueo5446of13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rcdit.rider.rcditRider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
