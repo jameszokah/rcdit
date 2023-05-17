@@ -2,24 +2,24 @@
 
 ## RCDit Taxi App: Flutter-based Ride-Hailing Solution with Node.js Backend
 
-RCDit is a cutting-edge, user-friendly taxi application designed to revolutionize the way people commute and access transportation services. Built with Flutter, a popular cross-platform development framework, RC-Dit ensures a seamless experience for both passengers and drivers. The app employs a robust Node.js backend, providing a reliable and scalable infrastructure to support its operations. 
+RCDit is a cutting-edge, user-friendly taxi application designed to revolutionize the way people commute and access transportation services. Built with Flutter, a popular cross-platform development framework, RCDit ensures a seamless experience for both passengers and drivers. The app employs a robust Node.js backend, providing a reliable and scalable infrastructure to support its operations. 
 
-## Understand this workspace
+## Understanding this workspace
 
 Run `npx nx graph` to see a diagram of the dependencies of the projects.
 
 ### To move into the rcdit rider/passenger app of the projects.
 Run `cd ./apps/rcdit-rider`
 
-### To previw passenger app
+### To preview passenger app
 Run `flutter run `
 
 ### Now to run the Driver app
 
-### move into the rcdit driver app of the projects.
+#### move into the rcdit driver app of the projects.
 Run `cd ./apps/rcdit-driver`
 
-### To previw Driver app
+### To preview Driver app
 Run `flutter run `
 
 
@@ -28,7 +28,7 @@ Run `flutter run `
 ### move into the rcdit server app of the projects.
 Run `cd ./apps/rcdit-server`
 
-### And start the server
+And start the server,
 Run `npx nx serve rcdit-server`
 
 
