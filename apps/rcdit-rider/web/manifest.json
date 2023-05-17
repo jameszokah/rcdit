@@ -1,0 +1,35 @@
+{
+    "name": "rcdit_rider",
+    "short_name": "rcdit_rider",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "a cutting-edge taxi app built with Flutter for seamless and convenient transportation experiences. Powered by a robust Node.js backend, RCDit Rider offers an efficient and user-friendly platform connecting passengers with reliable drivers, ensuring quick and secure rides to their desired destinations.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

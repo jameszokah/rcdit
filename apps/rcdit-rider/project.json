@@ -1,0 +1,156 @@
+{
+  "name": "rcdit-rider",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/rcdit-rider/src",
+  "projectType": "application",
+  "targets": {
+    "analyze": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter analyze",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "clean": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter clean",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "format": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter format apps/rcdit-rider/*",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter test",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "doctor": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter doctor",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "assemble": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter assemble",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "attach": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter attach",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "drive": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter drive",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "gen-l10n": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter gen-l10n",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "install": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter install",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "run": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter run",
+        "cwd": "apps/rcdit-rider"
+      }
+    },
+    "build-aar": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build aar",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    },
+    "build-apk": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build apk",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    },
+    "build-appbundle": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build appbundle",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    },
+    "build-bundle": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build bundle",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    },
+    "build-ios": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build ios",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    },
+    "build-ios-framework": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build ios-framework",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    },
+    "build-ipa": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "flutter build ipa",
+        "cwd": "apps/rcdit-rider"
+      },
+      "outputs": [
+        "{workspaceRoot}/apps/rcdit-rider/build"
+      ]
+    }
+  },
+  "tags": []
+}
